@@ -1,5 +1,3 @@
-import static org.junit.jupiter.api.DynamicTest.stream;
-
 import java.util.Scanner;
 
 public class Blackjack {
